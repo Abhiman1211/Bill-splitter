@@ -1,4 +1,5 @@
 # Bill-splitter
+This is a c++ code for bill splitting 
 TEAM MEMBERS
 <br>
 1.)<a href="https://github.com/Abhiman1211">Abhiman Gautam </a>
